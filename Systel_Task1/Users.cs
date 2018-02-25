@@ -8,10 +8,10 @@ namespace Systel_Task1
 {
     class Users
     {
-        int userid { get; set; }
-        string username { get; set; }
-        string password { get; set; }
-        int privilege { get; set; }
-        int groupid { get; set; }
+        public int userid { get; set; }
+        public string username { get; set; }
+        public string password { get; set; }
+        public int privilege { get; set; }
+        public int groupid { get; set; }
     }
 }
