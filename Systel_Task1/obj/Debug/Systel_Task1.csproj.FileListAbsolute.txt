@@ -1,0 +1,9 @@
+E:\code\Systel_Task1\Systel_Task1\bin\Debug\Systel_Task1.exe.config
+E:\code\Systel_Task1\Systel_Task1\bin\Debug\Systel_Task1.exe
+E:\code\Systel_Task1\Systel_Task1\bin\Debug\Systel_Task1.pdb
+E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.csprojResolveAssemblyReference.cache
+E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.Properties.Resources.resources
+E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.signin.resources
+E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.csproj.GenerateResource.Cache
+E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.exe
+E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.pdb
