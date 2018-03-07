@@ -52,6 +52,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Connection.cs" />
+    <Compile Include="devices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="devices.Designer.cs">
+      <DependentUpon>devices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="grouDevices.cs" />
+    <Compile Include="Groups.cs" />
     <Compile Include="signin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +70,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="system_handdling.cs" />
     <Compile Include="Users.cs" />
+    <EmbeddedResource Include="devices.resx">
+      <DependentUpon>devices.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

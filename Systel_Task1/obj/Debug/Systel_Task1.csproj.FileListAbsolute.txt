@@ -9,3 +9,4 @@ E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.exe
 E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.pdb
 E:\code\Systel_Task1\Systel_Task1\bin\Debug\Dapper.dll
 E:\code\Systel_Task1\Systel_Task1\bin\Debug\Dapper.xml
+E:\code\Systel_Task1\Systel_Task1\obj\Debug\Systel_Task1.devices.resources

@@ -40,7 +40,10 @@ namespace Systel_Task1
                 }
                 else
                 {
-                    //to next form
+                    this.Hide();
+                    devices f2 = new devices(user1);
+                    f2.ShowDialog();//to next formt
+                    
                 }
             }
 
@@ -54,6 +57,10 @@ namespace Systel_Task1
             if (psu.Enabled == true)
                 user1.privilege = Int32.Parse(psu.Text);
             fun.setuser(user1);
+            user1 = fun.getuser(user1.username, user1.password);
+            this.Hide();
+            devices f2 = new devices(user1);
+            f2.ShowDialog();//to next form
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
